@@ -1,11 +1,14 @@
 #include<iostream>
 using namespace std;
+
+int summ(int a, int b){
+    return a+b;
+}
 int main(){
-    string name ;
-    int age;
-    cin >> name;
-    cin >> age;
-    cout << name << age << "\n";
+    for( int i =0; i < 10; i++){
+        cout << i << "\n";
+    }
+
 
     return 0;
 }

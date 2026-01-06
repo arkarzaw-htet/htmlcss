@@ -1,0 +1,1 @@
+{"name":"Local: fistprob","url":"/home/arkarzawhtet/Desktop/Competative programming/fistprob.cpp","tests":[{"id":1767331095144,"input":"3\n1 1 1 1\n1 2 3 4\n2 2 2 2","output":"Yes\nNo\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/arkarzawhtet/Desktop/Competative programming/fistprob.cpp","group":"local","local":true}
